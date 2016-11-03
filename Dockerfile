@@ -1,1 +1,1 @@
-FROM alpine
+FROM peekr/demo
